@@ -1,0 +1,4 @@
+GET: Retrieve something
+POSY: Receive data, and use it
+PUT: Make sure something is there
+DELETE: Remove something
